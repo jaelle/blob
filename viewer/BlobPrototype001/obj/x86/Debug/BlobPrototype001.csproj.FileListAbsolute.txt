@@ -1,0 +1,142 @@
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+c:\users\1853819\documents\visual studio 10\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\BlobPrototype001\BlobPrototype001\obj\x86\Debug\bin\Debug\blobFiles\scenes\Page1.baml
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\bin\Debug\blobFiles\scenes\Page1.baml
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1853819\Documents\Visual Studio 10\Projects\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teamblob\Documents\Visual Studio 2010\Projects\1-12-2010\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\bin\Debug\blobFiles\scenes\Page2.baml
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\bin\Debug\blobFiles\scenes\Page2.baml
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001.desktop\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teamblob\Documents\Multitouch\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teamblob\Desktop\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teamblob\Documents\Multitouch\Releases\March-04-2010\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jaelle\Documents\SDSMT\TeamBlob\BlobPrototype001\BlobPrototype001\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001.pdb
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\bin\Debug\BlobPrototype001.exe
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\bin\Debug\BlobPrototype001.pdb
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001.csprojResolveAssemblyReference.cache
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\App.g.cs
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.cache
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001_MarkupCompile.lref
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\MainWindow.baml
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001.g.resources
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001.Properties.Resources.resources
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001.csproj.GenerateResource.Cache
+C:\Users\jaelle\Documents\repos\blob\viewer\BlobPrototype001\obj\x86\Debug\BlobPrototype001.exe

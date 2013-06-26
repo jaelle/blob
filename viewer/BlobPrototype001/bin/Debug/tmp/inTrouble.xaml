@@ -1,0 +1,14 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FF000000" EditingMode="None">
+<TextBlock Name="Text001_Click" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="500" Height="200" FontFamily="Arial" FontSize="43" Foreground="#FF4169E1">The World is in Trouble!<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="268" OffsetY="20" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock>
+<Image Name="Image001_All" Source="pack://siteoforigin:,,,/tmp/images/world.PNG" Width="420" Height="431" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="310" OffsetY="148" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<TextBox Name="Text001_Click_Scene" Text="tmp/goodnews.xaml" Visibility="Hidden" />
+</InkCanvas>
+</Page>

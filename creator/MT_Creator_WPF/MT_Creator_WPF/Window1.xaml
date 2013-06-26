@@ -1,0 +1,60 @@
+﻿<Window x:Class="MT_Creator_WPF.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Blob Multitouch Designer" Height="768" Width="1024" MaxHeight="768" MaxWidth="1024" ResizeMode="CanMinimize">
+    <Grid>
+        <Menu Height="27" VerticalAlignment="Top" HorizontalAlignment="Stretch"
+              Background="Orange" BorderThickness="2" BorderBrush="Orange" Margin="16,10,12,0" MaxHeight="768" MaxWidth="1024" Focusable="False" HorizontalContentAlignment="Center">
+            <Menu.BitmapEffect>
+                <DropShadowBitmapEffect />
+            </Menu.BitmapEffect>
+            <MenuItem Header="File" HorizontalContentAlignment="Right" FlowDirection="LeftToRight">
+                <MenuItem Header="_Load Project" Click="Click_Load"/>
+                <MenuItem Header="_Close" Click="Click_Close"/>
+                <MenuItem Header="_Background Color" Click="BG_Color"/>
+            </MenuItem>
+            <MenuItem Header="Text" Click="Add_Text" Background="Gold" 
+                      BorderBrush="Goldenrod" BorderThickness="2" ToolTip="Add Text" />
+            <MenuItem Header="Image" Click="Add_Image" 
+                      Background="Gold"  BorderBrush="Goldenrod"  BorderThickness="2" ToolTip="Add an Image">
+            </MenuItem>
+            <MenuItem Header="Video" Click="Add_Vid" 
+                      Background="Gold" BorderBrush="Goldenrod" BorderThickness="2" ToolTip="Add a Video" Focusable="False">
+            </MenuItem>
+            <MenuItem Header="Sound" Click="Add_Sound" Background="Gold" 
+                      BorderBrush="Goldenrod" BorderThickness="2" ToolTip="Add Sound" Focusable="False" />
+            <MenuItem Header="Shapes" Click="Add_Shapes" Background="Gold" BorderBrush="Goldenrod" BorderThickness="2" ToolTip="Add a Shape">
+            </MenuItem>
+            <MenuItem Header="Inertia" Click="Change_Inertia" Background="Gold" BorderBrush="Goldenrod" BorderThickness="2" ToolTip="Change the scene's inertia.">
+            </MenuItem>
+            <MenuItem Header="Properties" Background="PeachPuff"  BorderBrush="Goldenrod" BorderThickness="2" ToolTip="Modify Properties" Click="Properties_Click" Focusable="False" />
+            <MenuItem Header="Remove" Background="PeachPuff" BorderBrush="Goldenrod" BorderThickness="2" Click="Remove" ToolTip="Remove an Object" />
+            <MenuItem Header="Export" Background="Peachpuff" BorderBrush="Goldenrod" BorderThickness="2" Click="Export" ToolTip="Export the Presentation" />
+         </Menu>
+        <Menu Height="27" VerticalAlignment="Top" HorizontalAlignment="Right" Background="Orange" BorderThickness="2" BorderBrush="Orange" Margin="16,10,12,0">
+        <MenuItem Name="Play_Button" Click="Click_Play">
+            <MenuItem.Icon>
+            <Image Source="play_sm.png" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem Name="Pause" Click="Pause_Click">
+                <MenuItem.Icon>
+                    <Image Source="pause_sm.png" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem Name="Stop">
+                <MenuItem.Icon>
+                    <Image Source="stop_sm.png" />
+                </MenuItem.Icon>
+            </MenuItem>
+            <MenuItem Name="Sound" Click="SelectSound">
+                <MenuItem.Icon>
+                    <Image Source="sound.png" />
+                </MenuItem.Icon>
+            </MenuItem>
+        </Menu>
+        <Canvas Name="scene" Margin="0,43.342,0,0" ClipToBounds="True" FlowDirection="LeftToRight" ForceCursor="True">
+            
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FF98FB98" EditingMode="None">
+<Image Name="Image001_All" Source="pack://siteoforigin:,,,/tmp/images/bus_smoke.jpg" Width="217" Height="205" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="80" OffsetY="309" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image002_All" Source="pack://siteoforigin:,,,/tmp/images/clean_energy people.jpg" Width="265" Height="199" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="719" OffsetY="72" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image003_All" Source="pack://siteoforigin:,,,/tmp/images/clean_energy_cars_and_buses_expo2010.jpg" Width="301" Height="171" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="413" OffsetY="403" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image004_All" Source="pack://siteoforigin:,,,/tmp/images/cleanenergy-766923.jpg" Width="299" Height="235" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="380" OffsetY="132" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image005_All" Source="pack://siteoforigin:,,,/tmp/images/clean-energy solar.jpg" Width="283" Height="206" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="42" OffsetY="74" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image006_All" Source="pack://siteoforigin:,,,/tmp/images/smokestack.jpg" Width="151" Height="254" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="833" OffsetY="309" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<TextBlock Name="Text001_Click" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="900" Height="71" FontFamily="Papyrus" FontSize="45" Foreground="#FFFF0000">Find the examples of CLEAN ENERGY!<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="59" OffsetY="-1" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock><TextBox Name="Text001_Click_Scene" Text="tmp/sunsets.xaml" Visibility="Hidden" />
+<TextBlock Name="Text002_None" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="552" Height="79" FontFamily="Papyrus" FontSize="30" Foreground="#FFFF0000">NOT CLEAN ENERGY<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="454" OffsetY="575" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock>
+<TextBlock Name="Text003_None" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="325" Height="75" FontFamily="Papyrus" FontSize="30" Foreground="#FFFFFF00">CLEAN ENERGY<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="80" OffsetY="575" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock>
+</InkCanvas>
+</Page>

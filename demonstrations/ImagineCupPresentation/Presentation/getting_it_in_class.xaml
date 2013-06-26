@@ -1,0 +1,16 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FFFFFFFF" EditingMode="None">
+<TextBlock Name="Text001_Click" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="200" Height="150" FontFamily="Georgia" FontSize="32" Foreground="#FFFF8C00">Future Development<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="400" OffsetY="300" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock><TextBox Name="Text001_Click_Scene" Text="tmp/futuretimeline.xaml" Visibility="Hidden" />
+<Image Name="Image001_All" Source="pack://siteoforigin:,,,/tmp/images/iStock_000006720295XSmall.jpg" Width="277" Height="182" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="313" OffsetY="209" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image002_All" Source="pack://siteoforigin:,,,/tmp/images/touchscreen.png" Width="342" Height="245" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="173" OffsetY="172" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image003_All" Source="pack://siteoforigin:,,,/tmp/images/hp-touchsmart-iq800-series-all-in-one-pc.jpg" Width="311" Height="247" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="485" OffsetY="171" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image004_All" Source="pack://siteoforigin:,,,/tmp/images/homepage.png" Width="712" Height="550" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="158" OffsetY="70" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+</InkCanvas>
+</Page>

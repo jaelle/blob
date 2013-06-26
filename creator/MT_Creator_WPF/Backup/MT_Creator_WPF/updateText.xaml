@@ -1,0 +1,22 @@
+﻿<Window x:Class="MT_Creator_WPF.updateText"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Update Text Element" Height="448" Width="275">
+    <Grid>
+        <Button Height="20" HorizontalAlignment="Right" Margin="0,0,19,12" Name="Load" VerticalAlignment="Bottom" Width="67" Click="Load_Click">Update</Button>
+        <Button Height="20" Margin="84,0,103,12" Name="Cancel" VerticalAlignment="Bottom">Cancel</Button>
+        <Button Height="20" HorizontalAlignment="Right" Margin="0,167,12,0" Name="button1" VerticalAlignment="Top" Width="67" Click="button1_Click">Format...</Button>
+        <TextBox Margin="10,10,14,0" Name="textBox1" TextWrapping="WrapWithOverflow" Height="140" VerticalAlignment="Top" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="10,0,0,168" Name="Height" VerticalAlignment="Bottom" Width="48">Height</Label>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="55,0,0,173" Name="HeightT" VerticalAlignment="Bottom" Width="63" />
+        <Label HorizontalAlignment="Left" Margin="13,180,0,177" Name="Width" Width="48">Width</Label>
+        <TextBox HorizontalAlignment="Left" Margin="55,182,0,202" Name="WidthT" Width="63" />
+        <CheckBox Height="16" Margin="55,0,103,146" Name="checkBox1" VerticalAlignment="Bottom">Movement</CheckBox>
+        <CheckBox Height="16" Margin="55,0,103,124" Name="checkBox2" VerticalAlignment="Bottom">Rotation</CheckBox>
+        <CheckBox Height="16" Margin="55,0,103,103" Name="checkBox3" VerticalAlignment="Bottom">Scaling</CheckBox>
+        <Label Height="28" HorizontalAlignment="Left" Margin="10,0,0,54" Name="label2" VerticalAlignment="Bottom" Width="67">Links To:</Label>
+        <TextBox Height="23" Margin="0,0,92,54" Name="textBox2" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="95">Blank if no link...</TextBox>
+        <Button Height="20" HorizontalAlignment="Right" Margin="0,0,12,57" Name="button2" VerticalAlignment="Bottom" Width="67" Click="button2_Click">Browse...</Button>
+        <CheckBox Height="16" Margin="124,0,9,173" Name="checkBox4" VerticalAlignment="Bottom">Auto</CheckBox>
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FFFFFFFF" EditingMode="None">
+<TextBlock Name="Text001_Click" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="732" Height="62" FontFamily="Georgia" FontSize="32" Foreground="#FFFF8C00">Getting Blob Multitouch Designer into Classrooms<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="140" OffsetY="101" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock><TextBox Name="Text001_Click_Scene" Text="tmp/getting_it_in_class.xaml" Visibility="Hidden" />
+        <Image Name="Image001_Click" Source="pack://siteoforigin:,,,/tmp/images/empty_classroom.jpg" Width="605" Height="415" IsManipulationEnabled="False">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="201" OffsetY="150" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+    </InkCanvas>
+</Page>

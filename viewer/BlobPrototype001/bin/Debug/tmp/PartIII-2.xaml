@@ -1,0 +1,15 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FFFFFFFF" EditingMode="None">
+<Image Name="Image001_Translate" Source="pack://siteoforigin:,,,/tmp/images/iStock_000011568769XSmall.jpg" Width="374" Height="673" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="621" OffsetY="17" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image002_Click" Source="pack://siteoforigin:,,,/tmp/images/segueToTimeline.png" Width="192" Height="335" IsManipulationEnabled="False"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="187" OffsetY="209" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image><TextBox Name="Image002_Click_Scene" Text="tmp/pre1700.xaml" Visibility="Hidden" />
+<TextBlock Name="Text001_RotateScale" IsManipulationEnabled="True" TextWrapping="Wrap" Margin="0,0,0,20" Width="600" Height="200" FontFamily="Amienne" FontSize="45" Foreground="#FFB22222">Timeline of Women in Science<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="10" OffsetY="100" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock>
+<TextBlock Name="Text002_Click" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="500" Height="200" FontFamily="Algerian" FontSize="43" Foreground="#FF4B0082">Using the Designer<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="98" OffsetY="550" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock><TextBox Name="Text002_Click_Scene" Text="tmp/PartIII-3.xaml" Visibility="Hidden" />
+</InkCanvas>
+</Page>

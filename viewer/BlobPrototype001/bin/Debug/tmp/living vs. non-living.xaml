@@ -1,0 +1,23 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FFADFF2F" EditingMode="None">
+<TextBlock Name="Text001_Click" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="900" Height="63" FontFamily="Kristen ITC" FontSize="47" Foreground="#FFFFFF00">Living vs. Non-Living<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="287" OffsetY="30" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock><TextBox Name="Text001_Click_Scene" Text="tmp/Southwest Region.xaml" Visibility="Hidden" />
+<TextBlock Name="Text002_None" IsManipulationEnabled="False" TextWrapping="Wrap" Margin="0,0,0,20" Width="900" Height="200" FontFamily="Comic Sans MS" FontSize="32" Foreground="#FFFF4500">Sort the following images into two groups, living vs. non-living.<TextBlock.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX ="25" OffsetY="100" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></TextBlock.RenderTransform></TextBlock>
+<Image Name="Image001_All" Source="pack://siteoforigin:,,,/tmp/images/crystal.jpg" Width="160" Height="160" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="15" OffsetY="195" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image002_All" Source="pack://siteoforigin:,,,/tmp/images/egg.jpg" Width="160" Height="160" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="208" OffsetY="210" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image003_All" Source="pack://siteoforigin:,,,/tmp/images/fire.jpg" Width="160" Height="120" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="389" OffsetY="219" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image004_All" Source="pack://siteoforigin:,,,/tmp/images/jellyfish.jpg" Width="160" Height="106" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="591" OffsetY="219" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image005_All" Source="pack://siteoforigin:,,,/tmp/images/river.jpg" Width="160" Height="120" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="795" OffsetY="199" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image006_All" Source="pack://siteoforigin:,,,/tmp/images/sea anemone.jpg" Width="160" Height="138" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="7" OffsetY="395" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image007_All" Source="pack://siteoforigin:,,,/tmp/images/seed.jpg" Width="160" Height="125" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="237" OffsetY="387" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image008_All" Source="pack://siteoforigin:,,,/tmp/images/sponge.jpg" Width="160" Height="105" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="456" OffsetY="387" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image011_All" Source="pack://siteoforigin:,,,/tmp/images/tree.jpg" Width="120" Height="160" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="658" OffsetY="359" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+<Image Name="Image012_All" Source="pack://siteoforigin:,,,/tmp/images/volcano.jpg" Width="143" Height="118" IsManipulationEnabled="True"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="820" OffsetY="370" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image>
+</InkCanvas>
+</Page>

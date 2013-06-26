@@ -1,0 +1,121 @@
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.exe
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.pdb
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\Window1.baml
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\Window1.g.cs
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\App.g.cs
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\MT_Creator_WPF_MarkupCompile.cache
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.g.resources
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.Properties.Resources.resources
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.csproj.GenerateResource.Cache
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.exe
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.pdb
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\addImage.baml
+C:\Users\1258388\AppData\Local\Temporary Projects\MT_Creator_WPF\obj\Debug\addImage.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.exe
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.pdb
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.exe
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.pdb
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addImage.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Window1.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addImage.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Window1.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\App.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF_MarkupCompile.cache
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.g.resources
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.Properties.Resources.resources
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.csproj.GenerateResource.Cache
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addVid.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addVid.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addText.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addText.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addSound.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addSound.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\fontChooser.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\fontChooser.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colors.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colors.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateText.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateText.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateImage.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateImage.g.cs
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colorChooser.baml
+C:\Users\1258388\Documents\Visual Studio 2008\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colorChooser.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.exe
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.pdb
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.exe
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.pdb
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addImage.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addSound.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addText.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addVid.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colorChooser.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colors.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\fontChooser.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateImage.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateText.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Window1.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addImage.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addSound.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addText.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addVid.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colorChooser.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colors.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\fontChooser.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateImage.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateText.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Window1.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\App.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF_MarkupCompile.cache
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.g.resources
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.Properties.Resources.resources
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\AddShapes.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\AddShapes.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateShapexaml.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateShapexaml.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Inertia.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Inertia.g.cs
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Presets.baml
+C:\Users\Robyn\Documents\Visual Studio 2010\Projects\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Presets.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.exe
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.pdb
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.exe
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\bin\Debug\MT_Creator_WPF.pdb
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.csprojResolveAssemblyReference.cache
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addImage.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\AddShapes.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addSound.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addText.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addVid.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colorChooser.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colors.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\fontChooser.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Inertia.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Presets.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateImage.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateShapexaml.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateText.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Window1.baml
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addImage.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\AddShapes.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addSound.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addText.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\addVid.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colorChooser.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\colors.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\fontChooser.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Inertia.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Presets.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateImage.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateShapexaml.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\updateText.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\Window1.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\App.g.cs
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF_MarkupCompile.cache
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.g.resources
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.Properties.Resources.resources
+C:\Users\jaelle\Documents\My Box Files\Personal\Blob Multitouch Designer\creator\MT_Creator_WPF\MT_Creator_WPF\obj\Debug\MT_Creator_WPF.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+﻿<Window x:Class="MT_Creator_WPF.addSound"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Add Sound" Height="300" Width="300">
+    <Grid>
+        <TextBox Name="SoundFile" Height="20" VerticalAlignment="Top"
+                 Margin="0,32,12,0" HorizontalAlignment="Right" Width="190">
+        </TextBox>
+        <Label Height="28" Margin="12,30,0,0" Name="label1" 
+               VerticalAlignment="Top" HorizontalAlignment="Left" Width="67">Filename:</Label>
+        <Button Name="Browse" Height="20" Width="55" HorizontalAlignment="Right" Margin="0,58,12,0" VerticalAlignment="Top" Click="Browse_Click">Browse...
+        </Button>
+        <Button Name="Load" Height="20" VerticalAlignment="Bottom"
+                HorizontalAlignment="Right" Width="67" Margin="0,0,12,12" Click="Load_Click">
+            Load
+        </Button>
+        <Button Margin="126,0,85,12" Name="Cancel" Height="20" VerticalAlignment="Bottom" Click="Close_Click">
+            Cancel
+        </Button>
+    </Grid>
+</Window>

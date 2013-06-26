@@ -1,0 +1,27 @@
+﻿<Window x:Class="MT_Creator_WPF.addImage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Add an Image" Height="256" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox Name="ImageFile" Height="20" VerticalAlignment="Top"
+                 Margin="0,32,12,0" HorizontalAlignment="Right" Width="190">            
+        </TextBox>
+        <Label Height="28" Margin="12,30,0,0" Name="label1" 
+               VerticalAlignment="Top" HorizontalAlignment="Left" Width="67">Filename:</Label>
+        <Button Name="Browse" Height="20" Width="55" HorizontalAlignment="Right" Margin="0,58,12,0" VerticalAlignment="Top" Click="Browse_Click">Browse...            
+        </Button>
+        <Button Name="Load" Height="20" VerticalAlignment="Bottom"
+                HorizontalAlignment="Right" Width="67" Margin="0,0,12,12" Click="Load_Click">
+            Load
+        </Button>
+        <Button Margin="129,0,82,12" Name="Cancel" Height="20" VerticalAlignment="Bottom" Click="Close_Click"> 
+            Cancel
+        </Button>
+        <CheckBox Margin="76,98,82,104" Name="checkBox1">Movement</CheckBox>
+        <CheckBox Height="16" Margin="76,120,82,0" Name="checkBox2" VerticalAlignment="Top">Rotation</CheckBox>
+        <CheckBox Height="16" Margin="76,142,82,0" Name="checkBox3" VerticalAlignment="Top">Scaling</CheckBox>
+        <Label Margin="15,174,0,157" Name="label2" HorizontalAlignment="Left" Width="67">Links To:</Label>
+        <TextBox Margin="76,174,82,162" Name="textBox1">Blank if no link...</TextBox>
+        <Button HorizontalAlignment="Right" Margin="0,177,9,162" Name="button1" Width="67" Click="button1_Click">Browse...</Button>
+    </Grid>
+</Window>

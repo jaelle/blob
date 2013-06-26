@@ -1,0 +1,143 @@
+<Page 
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1000"
+	Title="rakic">
+    <InkCanvas Name="scene" EditingMode="None">
+
+        <!--Timeline Bar-->
+        <Image Name="Timeline_Pre1700"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_pre1700.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="0" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1700s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1700s.gif"
+               Width="166" Height="76">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="165" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1800s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1800s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="330" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1900s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1900s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="495" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_Current_1930s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_current_1930s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="660" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1950on"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1950on.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="824" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        
+        <!-- Image name should be name_[action type]. Action type can be Click,Rotate,Translate,
+        Scale,All,RotateTranslate,RotateScale,TranslateScale, //-->
+        <!-- Source should be: pack://siteoforigin:,,,/path/to/image //-->
+        <!-- If action is not Click, ADD IsManipulationEnabled="True", otherwise you don't need it. -->
+        <Image Name="Rakic01_All"
+               Source="pack://siteoforigin:,,,/tmp/images/1930s_raku.png"
+               Width="300" Height="200"
+               IsManipulationEnabled="True">
+
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="50" OffsetY="100" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+        <!--Activity and Go Back buttons-->
+        <Image Name="Button_Activity"
+               Source="pack://siteoforigin:,,,/tmp/images/button_activity.png"
+               Width="75" Height="75"
+               IsManipulationEnabled="False">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="150" OffsetY="330" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Button_GoBack_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/button_goback.png"
+               Width="75" Height="75"
+               IsManipulationEnabled="True">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="150" OffsetY="400" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        
+        <!-- TextBlock name should be name_[action type]. Action type can be Click,Rotate,Translate,
+        Scale,All,RotateTranslate,RotateScale,TranslateScale, //-->
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,20" Width="400" IsManipulationEnabled="True" Name="Rakic_All">
+            "If anything could lead to a therapy, make a difference in the lives of individuals with disease and their families and have a widespread effect, well, that's a holy grail for a neuroscientist."
+            Patricia Goldman-Rakic's research helped scientists better understand how the brain works.  Her work disproved the theory that information sentering the brain just makes a brief stop in short-term memory on its journey into long-term storage.
+            In 1977, Patricia dicovered groupd of organized cells in the brain's "gray matter."  She proved that each group of cells is dedicated to a specific memory task, such as remembering a face or a voice.  This breakthrough affected research on diseases such as dementia, Alzheimer's, and schizophrenia.
+            <TextBlock.RenderTransform>
+                    <MatrixTransform>
+                        <MatrixTransform.Matrix>
+                            <Matrix OffsetX ="400" OffsetY="150" M11="1" M22="1" />
+                        </MatrixTransform.Matrix>
+                    </MatrixTransform>
+                </TextBlock.RenderTransform>
+
+        </TextBlock>        
+        <TextBox Name="Button_GoBack_Click_Scene" Text="tmp/1930-1949.xaml" Visibility="Hidden" />
+    </InkCanvas> 
+</Page>

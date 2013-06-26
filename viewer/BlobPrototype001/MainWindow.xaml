@@ -1,0 +1,31 @@
+﻿<Window x:Class="BlobPrototype001.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:BlobPrototype001"
+        Title="Blob Multitouch Viewer" Name="mainWindow" Closed="mainWindow_Closed" WindowState="Maximized">
+    <Grid x:Name="windowGrid">
+        <Menu Height="50" VerticalAlignment="Top" x:Name="mainMenu" HorizontalAlignment="Stretch" Background="Gainsboro" BorderBrush="Black">
+            <MenuItem Header="Open Project..." Click="OpenPresentationDialog" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Foreground="Black" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Name="mnuRecord" Header="Record a Session..." Click="RecordSession" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Name="mnuPlayback" Header="Playback a Session..." Click="PlaybackSession" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Name="mnuInk" Header="Start Ink" Click="StartInk" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Name="mnuErase" Header="Eraser" Click="EraseInk" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Name="mnuClear" Header="Clear Ink" Click="ClearInk" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Name="mnuSave" Header="Save Ink" Click="SaveInk" VerticalAlignment="Center" Height="48" Margin="0" Padding="7,15" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+        </Menu>
+        <Menu Height="50" VerticalAlignment="Top" x:Name="iconMenu" HorizontalAlignment="Right" Background="Gainsboro"></Menu>
+
+        <Menu Height="30" HorizontalAlignment="Stretch" Margin="0,50,0,0" Name="manipulateMenu" VerticalAlignment="Top" Background="Gainsboro" BorderBrush="Black">
+            <MenuItem Header="Increase Friction" Click="IncreaseFriction" VerticalAlignment="Center" Height="28" Margin="0" Padding="7,7" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+            <MenuItem Header="Decrease Friction" Click="DecreaseFriction" VerticalAlignment="Center" Height="28" Margin="0" Padding="7,7" HorizontalAlignment="Left" BorderBrush="GhostWhite" BorderThickness="2" Background="WhiteSmoke"></MenuItem>
+        </Menu>
+        
+        <Viewbox Name="viewBox" Margin="0,80,0,0" Stretch="Uniform" StretchDirection="Both">
+            <InkCanvas x:Name="scene" IsManipulationEnabled="False" EditingMode="None" Width="1024" Height="768">
+                <TextBlock Name="initTranslateDeceleration" Text="10" Visibility="Hidden"></TextBlock>
+                <TextBlock Name="initExpandDeceleration" Text="0.1" Visibility="Hidden"></TextBlock>
+                <TextBlock Name="initRotateDeceleration" Text="2" Visibility="Hidden"></TextBlock>
+            </InkCanvas>
+        </Viewbox>
+    </Grid>
+</Window>

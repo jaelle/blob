@@ -1,0 +1,169 @@
+<Page 
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1000"
+	Title="1950on">
+    <InkCanvas Name="scene" EditingMode="None">
+
+        <!--Timeline Bar-->
+        <Image Name="Timeline_Pre1700_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_pre1700.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="0" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1700s_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1700s.gif"
+               Width="166" Height="76">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="165" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1800s_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1800s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="330" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1900s_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1900s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="495" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1930s_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1930s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="660" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_Current_1950on"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_current_1950on.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="824" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+        <!--Header-->
+        <!--<Image Name="1800s_Header"
+               Source="pack://siteoforigin:,,/tmp/images/1800s_header.png"
+               Width="330" Height="100">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="20" OffsetY="100" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>-->
+
+        <!--Images-->
+        <!-- Image name should be name_[action type]. Action type can be Click,Rotate,Translate,
+        Scale,All,RotateTranslate,RotateScale,TranslateScale, //-->
+        <!-- Source should be: pack://siteoforigin:,,,/path/to/image //-->
+        <Image Name="Breazeal01_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/1950s_breazeal.png"
+               Width="200" Height="300">
+
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="700" OffsetY="200" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image Name="France01_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/1950s_France.png"
+               Width="250" Height="150">
+
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="20" OffsetY="100" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+        <Image Name="Ride01_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/1950s_ride.png"
+               Width="200" Height="100">
+
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="330" OffsetY="150" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+
+        <Image Name="Hammel01_Click"
+               Source="pack://siteoforigin:,,,/tmp/image/1960s_Hammel.png"
+               Width="200" Height="100">
+
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="0" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+        <!-- For Clicks, Name must be the name of the image it is associated with (the clicker) appended by
+        some other descriptor. //-->
+        <!--Toggle Bar-->
+        <TextBox Name="Timeline_Pre1700_Click_Scene" Text="tmp/pre1700.xaml" Visibility="Hidden" />
+        <TextBox Name="Timeline_1700s_Click_Scene" Text="tmp/1700-1800.xaml" Visibility="Hidden" />
+        <TextBox Name="Timeline_1800s_Click_Scene" Text="tmp/1800-1900.xaml" Visibility="Hidden" />
+        <TextBox Name="Timeline_1900s_Click_Scene" Text="tmp/1900-1929.xaml" Visibility="Hidden" />
+        <TextBox Name="Timeline_1930s_Click_Scene" Text="tmp/1930-1949.xaml" Visibility="Hidden" />
+
+        <!-- Scientists-->
+        <TextBox Name="Breazeal01_Click_Scene" Text="tmp/breazeal.xaml" Visibility="Hidden" />
+        <TextBox Name="France01_Click_Scene" Text="tmp/france.xaml" Visibility="Hidden" />
+        <TextBox Name="Ride01_Click_Scene" Text="tmp/ride.xaml" Visibility="Hidden" />
+        <TextBox Name="Hammel01_Click_Scene" Text="tmp/hammel.xaml" Visibility="Hidden" />
+        
+    </InkCanvas> 
+</Page>

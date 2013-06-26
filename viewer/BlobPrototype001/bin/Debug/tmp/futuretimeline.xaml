@@ -1,0 +1,13 @@
+<Page
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+mc:Ignorable="d"
+d:DesignHeight="768" d:DesignWidth="1024"
+Title="Presentation">
+<InkCanvas Name="scene" Background="#FFFFFFFF" EditingMode="None">
+<Image Name="Image001_Click" Source="pack://siteoforigin:,,,/tmp/images/futuretimeline.png" Width="840" Height="468" IsManipulationEnabled="False"><Image.RenderTransform><MatrixTransform><MatrixTransform.Matrix><Matrix OffsetX="101" OffsetY="20" M11="1" M22="1" /></MatrixTransform.Matrix></MatrixTransform></Image.RenderTransform></Image><TextBox Name="Image001_Click_Scene" Text="tmp/conclusion_slide.xaml"
+Visibility="Hidden" />
+</InkCanvas>
+</Page>

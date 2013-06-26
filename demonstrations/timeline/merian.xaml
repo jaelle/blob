@@ -1,0 +1,142 @@
+<Page 
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1000"
+	Title="merian">
+    <InkCanvas Name="scene" EditingMode="None">
+
+        <!--Timeline Bar-->
+        <Image Name="Timeline_Current_Pre1700"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_current_pre1700.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="0" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1700s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1700s.gif"
+               Width="166" Height="76">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="165" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1800s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1800s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="330" OffsetY="0" M11="1" M22="1"/>
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1900s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1900s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="495" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1930s"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1930s.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="660" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Timeline_1950on"
+               Source="pack://siteoforigin:,,,/tmp/images/timeline_1950on.gif"
+               Width="165" Height="75">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX="824" OffsetY="0" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        
+        <!-- Image name should be name_[action type]. Action type can be Click,Rotate,Translate,
+        Scale,All,RotateTranslate,RotateScale,TranslateScale, //-->
+        <!-- Source should be: pack://siteoforigin:,,,/path/to/image //-->
+        <!-- If action is not Click, ADD IsManipulationEnabled="True", otherwise you don't need it. -->
+        <Image Name="Merian01_All"
+               Source="pack://siteoforigin:,,,/tmp/images/pre1700_merian.png"
+               Width="300" Height="200"
+               IsManipulationEnabled="True">
+
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="50" OffsetY="100" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+
+        <!--Activity and Go Back buttons-->
+        <Image Name="Button_Activity_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/button_activity.png"
+               Width="75" Height="75"
+               IsManipulationEnabled="False">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="150" OffsetY="330" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="Button_GoBack_Click"
+               Source="pack://siteoforigin:,,,/tmp/images/button_goback.png"
+               Width="75" Height="75"
+               IsManipulationEnabled="True">
+            <Image.RenderTransform>
+                <MatrixTransform>
+                    <!-- Set X and Y coordinates with OffsetX and OffsetY -->
+                    <MatrixTransform.Matrix>
+                        <Matrix OffsetX ="150" OffsetY="400" M11="1" M22="1" />
+                    </MatrixTransform.Matrix>
+                </MatrixTransform>
+            </Image.RenderTransform>
+        </Image>
+        
+        <!-- TextBlock name should be name_[action type]. Action type can be Click,Rotate,Translate,
+        Scale,All,RotateTranslate,RotateScale,TranslateScale, //-->
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,20" Width="400" IsManipulationEnabled="True" Name="Merian_All">
+            Maria grew up in Germany with an interest in painting and insects. Her stepfather taught her to paint. Maria painted pictures of birds and insects, and later wrote books about insects. Because her illustrations were so lifelike and accurate, many scientists used Maria's paintings. When she was 52 years old, she went with her daughter to South Africa to study insects and plants. Maria studied insects' life cycles, and drew them as they developed. She returned from South Africa and lived in Amsterdam, Holland. Maria's drawings were made into a popular book, and some of the plants and insects she saw painted in Africa had never been seen before in Europe, and were named after her. Maria taught others about the study of insects, which is called entomology. 
+            <TextBlock.RenderTransform>
+                    <MatrixTransform>
+                        <MatrixTransform.Matrix>
+                            <Matrix OffsetX ="400" OffsetY="150" M11="1" M22="1" />
+                        </MatrixTransform.Matrix>
+                    </MatrixTransform>
+                </TextBlock.RenderTransform>
+
+        </TextBlock>
+        <TextBox Name="Button_GoBack_Click_Scene" Text="tmp/pre1700.xaml" Visibility="Hidden" />
+        <TextBox Name="Button_Activity_Click_Scene" Text="tmp/Insects.xaml" Visibility="Hidden" />
+    </InkCanvas> 
+</Page>
