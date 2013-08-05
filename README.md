@@ -1,7 +1,7 @@
-Blob
+Blob Multitouch Designer
 ====
 
-Blob Multitouch Designer
+For more information, visit: http://www.multitouchweb.com/teamblob 
 
 
 LICENSE:
